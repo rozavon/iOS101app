@@ -1,18 +1,18 @@
 # iOS101app
-# Prework - *Name of App Here*
+# Prework - *Intro App*
 
 Submitted by: Bob Zavon
 
-**Name of your app** is an app that... [TODO] 
+**Intro App** is an app that introduces who I am, where I go to school, and what I aspire to be. It also contains a feature that will randomly change the background color at the press of a button. Pretty cool, right? 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -21,7 +21,19 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
-
+1. Bereal
+   - hidden feed until you post a BeReal yourself
+   - groups that were recently added to have BeReals separate from your main feed
+   - being able to choose the frequency of BeReals inside groups
+2. Duolingo
+   - leaderboard and league rankings to keep you engaged
+   - animations during lessons
+   - report feedback feature on every question of each lesson
+   - vibrant and intuitive UI
+3. Snapchat
+   - disappearing photos, videos, and messages
+   - memories to be able to store photos and videos
+   - "1 yr ago today" memory feature
 ## Notes
 
 Describe any challenges encountered while building the app.
