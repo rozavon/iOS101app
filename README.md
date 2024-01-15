@@ -16,9 +16,14 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/441a5608f6644f7f8513cf73b5019a3d">
+      <p>Introduction to the IOS 101 App - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/441a5608f6644f7f8513cf73b5019a3d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/441a5608f6644f7f8513cf73b5019a3d-with-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 1. Bereal
@@ -34,9 +39,13 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
    - disappearing photos, videos, and messages
    - memories to be able to store photos and videos
    - "1 yr ago today" memory feature
+  
+My App Idea:
+ I would like to make an app that makes it easy for people to store and organize quotes that they would like to remember. Right now, a lot of my friends keep a list of funny quotes that their friends have said in their notes app, but I think it would be cool if there was a specific app for this. Some features could be categorization, for example, to distinguish between funny things that your friends have said and quotes from philosophers or thought leaders that you would like to revisit to keep a certain perspective on life. Another feature would be an intuitive add function, to be able to quickly add a quote either by typing or speaking. You could also save the authors of quotes so that if they make another quote it will be faster to attribute the quote to them when you are adding. Another feature I really think would be cool would be memory quotes like Snapchat so you can see what quotes were made on a certain day 1 year or more ago. Maybe in the future, it could also be a sort of social app where you can share quotes to a feed where people you are friends with/follow can see them.
+ 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challenge I faced while building this app was distinguishing between connection types. At first my button was not working because the connection type was an outlet instead of an action.
 
 ## License
 
