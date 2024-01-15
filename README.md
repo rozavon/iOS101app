@@ -18,7 +18,6 @@ The following **required** functionality is completed:
 
 <div>
     <a href="https://www.loom.com/share/441a5608f6644f7f8513cf73b5019a3d">
-      <p>Introduction to the IOS 101 App - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/441a5608f6644f7f8513cf73b5019a3d">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/441a5608f6644f7f8513cf73b5019a3d-with-play.gif">
